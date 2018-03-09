@@ -1,2 +1,4 @@
 
-- TEST TEXT DOCUMENT
+- TEST DOCUMENT
+
+Lorem ipsum dolor.
