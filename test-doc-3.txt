@@ -1,3 +1,5 @@
 This is the third text document.
 
 Update 2 of test doc 3.
+
+Local update 1 of test doc 3.
