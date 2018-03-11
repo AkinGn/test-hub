@@ -2,4 +2,8 @@
 - TEST DOCUMENT - 2
 
 This also has some lorem ipsum dolor.
+
+This is the update of text doc 2 on text-doc-2-update branch @local, and now with some cloud update with a local revision.
+
 Cloud update 2 to tdoc2.
+
