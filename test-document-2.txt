@@ -3,5 +3,4 @@
 
 This also has some lorem ipsum dolor.
 
-This is the update of text doc 2 on 
-text-doc-2-update branch @local.
+This is the update of text doc 2 on text-doc-2-update branch @local, and now with some cloud update.
