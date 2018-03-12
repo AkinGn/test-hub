@@ -6,3 +6,4 @@ Local update 1 of test doc 3.
 
 Cloud update 1 of test doc 3.
 
+Local update 2.
